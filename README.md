@@ -6,4 +6,6 @@
 
 
 ----------
-![warning](http://www.gsbattery.vn/Data/Sites/1/media/services/guide/warning-banner.png) Be aware you can find errors in these softwares!
+![warning](http://www.gsbattery.vn/Data/Sites/1/media/services/guide/warning-banner.png)
+
+Be aware you can find errors in these softwares!
