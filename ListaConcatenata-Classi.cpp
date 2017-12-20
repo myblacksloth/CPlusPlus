@@ -8,6 +8,7 @@
  * implementa una funzione per stampare tutte le stringhe contenute nella lista concatenata
  */
 
+#include <iostream>
 #include <cstdio>
 #include <cstdlib>
 #include <cstring>
@@ -86,14 +87,14 @@ int main(int argc, char* argv[])
     
     char str[256] = "";
     
-    printf("Inserisci una stringa: "); //from ansi c
+    cout << "Inserisci una stringa: ";
     scanf("%s", str); //from ansi c
     
     add(str);
     
     print();
     
-    printf("\n\n\n");
+    cout << endl << endl;
     
     return 0;
 }
